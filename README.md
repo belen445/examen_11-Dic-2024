@@ -16,5 +16,5 @@
    [[Control Indice de Accidentes e Incidentes](https://docs.google.com/spreadsheets/d/1xMsgq2ZyZ8OeLbqwnNi3dISR852tLItKrhGhwsQeQBg/edit?usp=sharing)]
    
    ### Presentaciones sobre Protocolo de Emergencia y Evacuación.
-   [[Presentaciones](https://gamma.app/docs/Protocolo-de-Emergencia-y-Evacuacion-Aserradero-0d557d4yao10v8r)]
+   [[Presentaciones](https://gamma.app/docs/Protocolo-de-Emergencia-y-Evacuacion-ji9dm113bldqadv)]
    
